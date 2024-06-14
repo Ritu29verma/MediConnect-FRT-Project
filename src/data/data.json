@@ -1,0 +1,193 @@
+{
+  "Header": {
+    "title": "From diagnosis to recovery,",
+    "paragraph": " we are with you every step of the way. Your health our commitment."
+  },
+  "About": {
+    "paragraph": "Experience seamless healthcare access with Mediconnect. Say goodbye to long waiting times and frustrating appointment scheduling. With Mediconnect, booking appointments with healthcare providers has never been easier. Our user-friendly platform allows you to browse available appointments, select a time that suits your schedule, and confirm your booking—all with just a few clicks.",
+    "Why": [
+      "Trusted healthcare expertise.",
+      "Convenient appointment. ",
+      "Comprehensive medical services.      ",
+      "Compassionate patient care."
+    ],
+    "Why2": [
+      "State-of-the-art facilities.",
+      "Personalized treatment plans",
+      "Commitment to excellence.",
+      "Patient-centered approach"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Summer Essentials",
+      "largeImage": "img/summeressential.jpg",
+      "smallImage": "img/summeressential.jpg"
+    },
+    {
+      "title": "Personal Care",
+      "largeImage": "img/personalcare_2.jpg",
+      "smallImage": "img/personalcare_2.jpg"
+    },
+    {
+      "title": "Multivitamins",
+      "largeImage": "img/multi_vitamins.jpg",
+      "smallImage": "img/multi_vitamins.jpg"
+    },
+    {
+      "title": "Women Care",
+      "largeImage": "img/womencare_2.jpg",
+      "smallImage": "img/womencare_2.jpg"
+    },
+    {
+      "title": "Health Devices",
+      "largeImage": "img/healthdevices_2.jpg",
+      "smallImage": "img/healthdevices_2.jpg"
+    },
+    {
+      "title": "Health and Nutrition",
+      "largeImage": "img/health_and_nutrition_2.jpg",
+      "smallImage": "img/health_and_nutrition_2.jpg"
+    },
+    {
+      "title": "Baby Care",
+      "largeImage": "img/babycare_2.jpg",
+      "smallImage": "img/babycare_2.jpg"
+    },
+    {
+      "title": "Ayurvedic Range",
+      "largeImage": "img/ayurvedic_range_1.jpg",
+      "smallImage": "img/ayurvedic_range_1.jpg"
+    },
+    {
+      "title": "Protien Suppliments",
+      "largeImage": "img/protein_supplements_1.webp",
+      "smallImage": "img/protein_supplements_1.webp"
+    },
+    {
+      "title": "Skin Care",
+      "largeImage": "img/skin_care_range.jpg",
+      "smallImage": "img/skin_care_range.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-pills",
+      "name": "Wellness and Preventive Care",
+      "text": "Health screenings and check-ups. Vaccinations and immunizations. Health education and lifestyle counseling."
+    },
+    {
+      "icon": "fa fa-brain",
+      "name": "Mental Health Services",
+      "text": "Counseling and therapy for mental health disorders.Inpatient and outpatient psychiatric care.Support groups and community resources."
+    },
+    {
+      "icon": "fa fa-microphone",
+      "name": "Telemedicine Services",
+      "text": "Virtual consultations with healthcare providers. Remote monitoring of patients' health. Prescription refills and follow-up appointments online."
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "Cardiology Services",
+      "text": "Comprehensive heart health assessments. Interventional cardiology procedures. Rehabilitation programs for cardiac patients."
+    },
+    {
+      "icon": "fa fa-virus",
+      "name": "Oncology Care",
+      "text": "Diagnosis and treatment of cancer. Chemotherapy, radiation therapy, and immunotherapy. Support services for cancer patients and their families."
+    },
+    {
+      "icon": "fa fa-user-nurse",
+      "name": "Urgent Care Services",
+      "text": "Quick assessment and treatment of minor illnesses and injuries. Immediate access to healthcare professionals for urgent medical needs."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Cardiologist",
+      "book": "Book an Appointment"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Pediatrist",
+      "book": "Book an Appointment"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Throat Specialist",
+      "book": "Book an Appointment"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Therapy",
+      "book": "Book an Appointment"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comment",
+      "title": "24/7 Emergency Care",
+      "text": "Experience seamless communication with our hospital's dedicated team, ensuring clear dialogue and informed decisions every step of the way."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Quality and Safety",
+      "text": "Discover peace of mind with our unwavering commitment to maintaining the highest standards of safety in your healthcare journey. "
+    },
+    {
+      "icon": "fa fa-user-nurse",
+      "title": "Expert Medical Staff",
+      "text": "Our hospital boasts a team of seasoned medical professionals, whose expertise and dedication ensure top-notch care tailored to your unique needs."
+    },
+    {
+      "icon": "fa fa-stethoscope",
+      "title": "Technology and Equipment",
+      "text": "From robotic surgery to state-of-the-art imaging, our hospital harnesses the power of innovation to provide precise diagnoses and unparalleled treatment."
+    }
+  ]
+}
