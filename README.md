@@ -68,6 +68,11 @@ MediConnect provides the following functionalities:
 - Deependra Kumar
 - Ritu Verma
 
+### Contributions
+Deependra Kumar: I implemented the chatbot system and authored all the content on the website. Additionally, I developed several components and served as the solution architect for this problem statement. I also deployed the website on Azure Services.
+
+Ritu Verma: I implemented and designed the entire website, handling the frontend part and other components of the website.
+
 ## Showcase of website
 
 ![Screenshot (380)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/ab4142f7-3a80-4427-ba69-ee703b195db6)
