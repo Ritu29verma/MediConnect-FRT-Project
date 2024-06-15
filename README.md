@@ -1,4 +1,4 @@
-![image](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/7203f4bd-cdf8-4947-a56c-f89f2d431be8)### README for MediConnect
+### README for MediConnect
 
 # MediConnect
 
