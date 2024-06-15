@@ -1,4 +1,4 @@
-### README for MediConnect
+![image](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/7203f4bd-cdf8-4947-a56c-f89f2d431be8)### README for MediConnect
 
 # MediConnect
 
@@ -7,7 +7,7 @@ Welcome to MediConnect, a comprehensive medical healthcare website designed to c
 ## Project Repository
 
 - You can find the project repository [here](https://github.com/Ritu29verma/MediConnect-FRT-Project).
-- You can view the live website [here](https://gentle-forest-05fce4d0f.5.azurestaticapps.net).
+- You can view the live website [here](https://zealous-ocean-09eafe31e.5.azurestaticapps.net).
 
 ## Getting Started
 
@@ -96,7 +96,4 @@ MediConnect provides the following functionalities:
 
 ![Screenshot (387)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/c044a172-914e-48a0-ae18-29aa7723e77a)
 
-
-![Screenshot (388)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/84b4922a-f39f-422e-bf3d-11168d8a9ef1)
-
-
+![Screenshot (390)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/e8a66abb-a3b2-4770-b258-33d4b2b16341)
