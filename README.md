@@ -23,32 +23,6 @@ Ensure you have the following installed on your system:
 
 ### Installation
 
-<<<<<<< HEAD
-1. *Clone the repository*
-
-    bash
-    git clone https://github.com/Ritu29verma/MediConnect-FRT-Project.git
-    cd MediConnect-FRT-Project
-    
-
-2. *Install dependencies*
-
-    In the project root directory, run the following command to install all necessary dependencies:
-
-    bash
-    npm install
-    
-
-3. *Start the application*
-
-    After installing the dependencies, start the application with:
-
-    bash
-    npm start
-    
-
-The application will start, and you can access it at http://localhost:3000.
-=======
 1. **Clone the repository**
 
     ```bash
@@ -73,6 +47,16 @@ The application will start, and you can access it at http://localhost:3000.
     ```
 
 The application will start, and you can access it at `http://localhost:3000`.
+    
+
+The application will start, and you can access it at http://localhost:3000.
+
+1. **Clone the repository**
+
+    ```bash
+    git clone https://github.com/Ritu29verma/MediConnect-FRT-Project.git
+    cd MediConnect-FRT-Project
+    ```
 
 
 ### Functionalities
@@ -117,3 +101,5 @@ MediConnect provides the following functionalities:
 
 
 ![Screenshot (388)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/84b4922a-f39f-422e-bf3d-11168d8a9ef1)
+
+
