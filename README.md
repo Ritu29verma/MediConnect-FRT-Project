@@ -68,3 +68,14 @@ MediConnect provides the following functionalities:
 - Deependra Kumar
 - Ritu Verma
 
+## Showcase
+
+![Screenshot (380)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/ab4142f7-3a80-4427-ba69-ee703b195db6)
+
+
+![Screenshot (383)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/fe5e28a6-a884-4640-ae4b-53bac1f7700c)
+
+
+![Screenshot (384)](![Screenshot (381)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/af1c1f6f-cb0e-46f6-84c8-62295a98a652)
+https://![Screenshot (382)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/de7cbf99-eb67-497f-b32a-106f1348ae4a)
+github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/e1ba1c35-d6b1-49cf-aeb9-dc0fc0dd996d)
