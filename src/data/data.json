@@ -105,32 +105,32 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "MediConnect made booking an appointment with my doctor incredibly easy. The process was quick and hassle-free, and I received excellent care.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "I love how simple and efficient MediConnect is. I booked my appointment in minutes and avoided long waits. Fantastic service!",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Thanks to MediConnect, I could schedule my appointment without any stress. The interface is user-friendly, and the service is top-notch.",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Booking through MediConnect was a breeze! The platform is intuitive, and I appreciated the timely reminders for my appointment. Great experience overall!",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "MediConnect offers a seamless appointment booking process. It saved me so much time, and the communication from the platform was excellent. Very satisfied!",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "Using MediConnect was such a relief. It simplified finding a doctor and booking an appointment. I’m grateful for the convenience. Highly recommended!",
       "name": "Johnathan Doe"
     }
   ],
@@ -161,8 +161,8 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
+    "address": "Shivaji Nagar, Jhansi, Uttar Pradesh, India",
+    "phone": "+1 123 456 7890",
     "email": "info@company.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
