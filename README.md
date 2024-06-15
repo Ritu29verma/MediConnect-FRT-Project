@@ -73,7 +73,7 @@ The application will start, and you can access it at http://localhost:3000.
     ```
 
 The application will start, and you can access it at `http://localhost:3000`.
->>>>>>> d51cd9fe57f1080dfc403eb2fec567955a37d3a5
+
 
 ### Functionalities
 
@@ -95,8 +95,7 @@ MediConnect provides the following functionalities:
 
 - Deependra Kumar
 - Ritu Verma
-<<<<<<< HEAD
-=======
+
 
 ### Contributions
 - Deependra Kumar: I implemented the chatbot system and authored all the content on the website. Additionally, I developed several components and served as the solution architect for this problem statement. I also deployed the website on Azure Services.
