@@ -6,7 +6,8 @@ Welcome to MediConnect, a comprehensive medical healthcare website designed to c
 
 ## Project Repository
 
-You can find the project repository [here](https://github.com/Ritu29verma/MediConnect-FRT-Project).
+- You can find the project repository [here](https://github.com/Ritu29verma/MediConnect-FRT-Project).
+- You can view the live website [here](https://gentle-forest-05fce4d0f.5.azurestaticapps.net).
 
 ## Getting Started
 
@@ -113,8 +114,7 @@ MediConnect provides the following functionalities:
 
 ## Showcase of Azure services used
 
-![Screenshot (386)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/23e4fdb8-80a2-4d26-b295-2899b0b81178)
+![Screenshot (387)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/c044a172-914e-48a0-ae18-29aa7723e77a)
 
 
-![Screenshot (385)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/a8076711-c040-4710-ad79-473ef98e9f8c)
->>>>>>> d51cd9fe57f1080dfc403eb2fec567955a37d3a5
+![Screenshot (388)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/84b4922a-f39f-422e-bf3d-11168d8a9ef1)
