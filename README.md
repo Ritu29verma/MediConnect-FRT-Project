@@ -96,4 +96,5 @@ MediConnect provides the following functionalities:
 
 ![Screenshot (387)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/c044a172-914e-48a0-ae18-29aa7723e77a)
 
-![Screenshot (390)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/e8a66abb-a3b2-4770-b258-33d4b2b16341)
+
+![Screenshot (391)](https://github.com/Ritu29verma/MediConnect-FRT-Project/assets/134145227/e425a738-2a98-4805-99dc-a2c1961a379d)
