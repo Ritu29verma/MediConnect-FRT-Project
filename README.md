@@ -47,9 +47,6 @@ Ensure you have the following installed on your system:
     ```
 
 The application will start, and you can access it at `http://localhost:3000`.
-    
-
-The application will start, and you can access it at http://localhost:3000.
 
 1. **Clone the repository**
 
