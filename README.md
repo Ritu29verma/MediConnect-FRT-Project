@@ -74,8 +74,8 @@ MediConnect provides the following functionalities:
 
 ### Contributors
 
-- Deependra Kumar
-- Ritu Verma
+- Deependra Kumar (github id - https://github.com/Deependra-K)
+- Ritu Verma (github id - https://github.com/Ritu29verma)
 
 
 ### Contributions
